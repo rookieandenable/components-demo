@@ -4,16 +4,16 @@
 ### 引用
 
 ~~~javascript
-npm install components-demo --save
+npm install enable-demo --save
 ~~~
 
 ### 使用
 
 ~~~javascript
 // 加载样式
-import 'components-demo/dist/index.css'
+import 'enable-demo/dist/index.css'
 // 引入组件
-import { Button } from 'components-demo'
+import { Button } from 'enable-demo'
 ~~~
 
 ### 组件
@@ -21,6 +21,10 @@ import { Button } from 'components-demo'
 * 🔥Button
 * 🔥Input
 
+### 推荐node版本
+~~~bash
+node version: 14.x
+~~~
 ### 本地启动命令
 
 ~~~bash
@@ -37,5 +41,5 @@ npm run build-storybook
 npm run build
 
 //发布到 npm
-npm run publish
+npm publish
 ~~~
