@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rookieandenable/components-demo.git"
+    "url": "https://github.com/rookieandenable/components-demo.git"
   },
   "files": [
     "dist"
