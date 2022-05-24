@@ -11,9 +11,9 @@ npm install components-demo --save
 
 ~~~javascript
 // 加载样式
-import 'vikingship/dist/index.css'
+import 'components-demo/dist/index.css'
 // 引入组件
-import { Button } from 'vikingship'
+import { Button } from 'components-demo'
 ~~~
 
 ### 组件
